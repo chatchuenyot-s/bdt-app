@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.2",
+  "appInfo": {
+    "name": "Somkiat BDT App",
+    "description": "Dashboard of BDT using react-admin",
+    "version": "p0pohv7m",
+    "id": "cl00ikh3016880801s6llfmel13",
+    "url": "https://app.amplication.com/cl00ikh3016880801s6llfmel13",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl00ikh3016880801s6llfmel13",
+      "authProvider": "Http"
+    }
+  }
+}
